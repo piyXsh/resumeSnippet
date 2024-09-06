@@ -1,0 +1,3 @@
+Job_recommendation/model1.pkl filter=lfs diff=lfs merge=lfs -text
+Resume_Categorization/Resume.csv filter=lfs diff=lfs merge=lfs -text
+Job_recommendation/job_descriptions.csv filter=lfs diff=lfs merge=lfs -text
